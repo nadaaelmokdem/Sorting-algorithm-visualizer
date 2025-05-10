@@ -1,4 +1,4 @@
-# Untitled
+# Sorting Algorithm Visualizer 
 
 ```markdown
 # Sorting Algorithm Visualizer in Python
